@@ -2,6 +2,15 @@
 // var parseJSON = JSON.parse;
 
 // but you're not, so you'll write it from scratch:
+
+// input - string
+// output - either object or array
+
 var parseJSON = function(json) {
-  // your code goes here
+  // declare result
+  // identify if the string is an object or array
+    // set result to either obj or arr
+  // iterate through json string
+  // [1, {}, [], {{{x: [,,,]}}}]
+
 };
